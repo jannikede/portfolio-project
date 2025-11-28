@@ -26,9 +26,10 @@ Streamlit: Layout Configuration, Enabling Filter-Methods, Interactive Graphs.
 
 I found that, with a Customer Lifetime Value of only 128$ and an average Customer Lifespan of 1 month, retention rates need to be improved. Additionally, a daily drop in revenue around 3PM further decreases earning opportunities, which needs to be compensated for.
 
-<img width="1328" height="756" alt="Daily Revenue Output" src="https://github.com/user-attachments/assets/f8c692f9-31ae-4032-832b-f0fe9ca7db52" />
+<img width="779" height="172" alt="Bildschirmfoto 2025-11-28 um 17 20 24" src="https://github.com/user-attachments/assets/5a1b0c0f-4a7d-450b-b2fc-e0f20127fbc7" />
 
-<img width="780" height="176" alt="Bildschirmfoto 2025-11-28 um 17 17 57" src="https://github.com/user-attachments/assets/f5772bff-9141-4f8a-9f1e-cc8beeebae7f" />
+
+<img width="1328" height="756" alt="Daily Revenue Output" src="https://github.com/user-attachments/assets/f8c692f9-31ae-4032-832b-f0fe9ca7db52" />
 
 
 
