@@ -1,6 +1,6 @@
 # Portfolio Project: Funnel and Revenue Analysis
 
-The data used for this project is synthetic and was obtained from [(link)](https://huggingface.co/datasets/liniribeiro/synthetic-user-sessions/tree/main) 
+The data used for this project is synthetic and was obtained from [Hugging Face](https://huggingface.co/datasets/liniribeiro/synthetic-user-sessions/tree/main). 
 
 # Executive Summary
 The Analysis revealed two problems:
