@@ -158,21 +158,26 @@ st.markdown("""
     border: 2px solid #153b5c;
     border-radius: 10px;
     padding: 20px;
-    width: 100%;              
-    height: 170px;        
     text-align: center;
+    height: 170px;    
+    width: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: center;  
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .metric.card h3 {
     font-size: 16px;
     color: #153b5c;
-    margin: 0 0 10px 0;
+    margin: 0;
     font-weight: 600;
-    line-height: 1.2;        
+    line-height: 1.25;
+    min-height: 42px;      
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 .metric.card h2 {
@@ -180,7 +185,11 @@ st.markdown("""
     color: #153b5c;
     margin: 0;
     font-weight: 700;
-    line-height: 1.2;         
+    line-height: 1.2;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 </style>
