@@ -159,7 +159,7 @@ st.markdown("""
     border-radius: 10px;
     padding: 20px;
     width: 100%;              
-    min-height: 150px;        
+    height: 150px;        
     text-align: center;
     display: flex;
     flex-direction: column;
