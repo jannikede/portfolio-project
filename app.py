@@ -152,13 +152,15 @@ CLV = (APV * APF) * ACL
 #### KPI Card Style
 st.markdown("""
 <style>
+
 .metric.card {
     background-color: white;
     border: 2px solid #153b5c;
     border-radius: 10px;
     padding: 20px;
+    width: 100%;              
+    min-height: 150px;        
     text-align: center;
-    height: 150px;  
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -170,6 +172,7 @@ st.markdown("""
     color: #153b5c;
     margin: 0 0 10px 0;
     font-weight: 600;
+    line-height: 1.2;        
 }
 
 .metric.card h2 {
@@ -177,7 +180,9 @@ st.markdown("""
     color: #153b5c;
     margin: 0;
     font-weight: 700;
+    line-height: 1.2;         
 }
+
 </style>
 """, unsafe_allow_html=True)
 
