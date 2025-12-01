@@ -77,4 +77,4 @@ Despite healthy conversion rates at the checkout stage, the business is experien
 
 **Data Source**: [Synthetic User Sessions Dataset](https://huggingface.co/datasets/liniribeiro/synthetic-user-sessions/tree/main) from Hugging Face
 
-**Dashboard**: [Link to deployed Streamlit app if available]
+**Dashboard**: [Streamlit](https://portfolio-project-6qrfsdyzqpts8sbw8emrcg.streamlit.app)
