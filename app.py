@@ -276,7 +276,7 @@ c1, c2, c3, c4 = st.columns(4)
 with c1:
     st.markdown(f"""
     <div class="metric card">
-            <h3>Average Customer Lifetime Value </h3>
+            <h3>Average Customer<br>Lifetime Value </h3>
             <h2>{CLV:.2f}$</h2>
     </div>    
     """, unsafe_allow_html=True)
@@ -293,7 +293,7 @@ with c2:
 with c3:
     st.markdown(f"""
     <div class="metric card">
-        <h3>Average Customer Lifespan</h3>
+        <h3>Average Customer<br>Lifespan</h3>
         <h2 style="color: {lifespan_color};">
                 {ACL:.2f} Months
         </h2>                
