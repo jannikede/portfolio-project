@@ -1,9 +1,9 @@
 [theme]
-borderColor = "#65737e" #medium grey, Trennungsstrich zwischen KPIs und Plots hat die Farbe
-primaryColor = "#153b5c" #sidebar buttons haben die Farbe
-backgroundColor = "#FFFCF2"#Hintergrund main page
+borderColor = "#65737e" #medium grey, color of seperation–line between KPIs and Plots
+primaryColor = "#153b5c" #color for sidebar buttons 
+backgroundColor = "#FFFCF2" #background color of main page
 secondaryBackgroundColor = "#e8dcc8"
-textColor = "153b5c" #deep dark grey blue
+textColor = "153b5c" 
 secondarytextColor = "77797D"
 dataframeHeaderBackgroundColor = "#E3E3E3"
 dataframeBorderColor = "77797D"
@@ -13,5 +13,5 @@ showWidgetBorder = true
 
 
 [theme.sidebar]
-secondaryBackgroundColor = "#B3E2FF" #  das blau in stärker: 7EC9F7
+secondaryBackgroundColor = "#B3E2FF"
 backgroundColor = "#DED9D3"
