@@ -7,6 +7,7 @@ This e-commerce business faces a revenue paradox: strong cart conversion rates (
 2. **Revenue Drop Pattern**: Consistent daily revenue decline between 2-4 PM across certain markets
 
 By building an interactive dashboard and conducting funnel analysis, I identified that the biggest revenue opportunities lie in improving customer retention strategies or pivoting the business model to optimize for one-time purchasers.
+**Dashboard**: [Streamlit](https://portfolio-project-6qrfsdyzqpts8sbw8emrcg.streamlit.app)
 
 ## Business Problem
 Despite healthy conversion rates at the checkout stage, the business is experiencing declining revenue that doesn't align with funnel performance. The company needs to understand:
@@ -76,5 +77,3 @@ Despite healthy conversion rates at the checkout stage, the business is experien
 ---
 
 **Data Source**: [Synthetic User Sessions Dataset](https://huggingface.co/datasets/liniribeiro/synthetic-user-sessions/tree/main) from Hugging Face
-
-**Dashboard**: [Streamlit](https://portfolio-project-6qrfsdyzqpts8sbw8emrcg.streamlit.app)
